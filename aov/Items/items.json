@@ -1,0 +1,902 @@
+﻿[
+  {
+    "id":"85",
+    "name":"Rankbreaker",
+    "info":"\u003cp\u003e Attack Damage: 110\u003c/p\u003e",
+    "passive":"Increases movement speed by 10% after exiting battle.\nIncreases Armor Pierce by 100 (+10 per level).",
+    "gold":"2020",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"0",
+    "name":"Short Sword",
+    "info":"\u003cp\u003e Attack Damage: 20\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"8",
+    "name":"Astral Spear",
+    "info":"\u003cp\u003e Attack Damage: 50\u003c/p\u003e",
+    "passive":"Armor Pierce +60",
+    "gold":"830",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"1",
+    "name":"Dagger",
+    "info":"\u003cp\u003e Attack Speed: 10%\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"6",
+    "name":"Arcane Hammer",
+    "info":"\u003cp\u003e Attack Damage: 25\u003c/p\u003e\n\u003cp\u003e Attack Speed: 15%\u003c/p\u003e",
+    "passive":"Normal attacks increase movement speed by 10%",
+    "gold":"740",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"17",
+    "name":"Blitz Blade",
+    "info":"\u003cp\u003e Attack Damage: 50\u003c/p\u003e\n\u003cp\u003e Attack Speed: 35%\u003c/p\u003e\n\u003cp\u003e Movement Speed: 5%\u003c/p\u003e",
+    "passive":"Every 4 seconds, the next normal attack triggers a chain lightning that deals 102 (+7 per level) magic damage (effect is doubled for ranged heroes). Each normal attack reduces cooldown by 1 second on hit.",
+    "gold":"1780",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"3",
+    "name":"Bloodied Club",
+    "info":"\u003cp\u003e Attack Damage: 10\u003c/p\u003e\n\u003cp\u003e Attack Damage: 8%\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"4",
+    "name":"Chainhammer",
+    "info":"\u003cp\u003e Attack Damage: 40\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"2",
+    "name":"Gloves",
+    "info":"\u003cp\u003e Critical Chance: 12%\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"13",
+    "name":"Claves Sancti",
+    "info":"\u003cp\u003e Attack Damage: 90\u003c/p\u003e",
+    "passive":"Critical Chance +25%.\nAfter dealing a critical hit, movement speed increases by 3 per hero’s level. Lasts for 1.5 seconds (only effective when using a ranged hero).\nIncreases critical damage by 50%.",
+    "gold":"2250",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"5",
+    "name":"Cleaving Claymore",
+    "info":"\u003cp\u003e Attack Damage: 80\u003c/p\u003e",
+    "passive":"",
+    "gold":"910",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"84",
+    "name":"Curse of Death",
+    "info":"\u003cp\u003e Attack Damage: 100\u003c/p\u003e\n\u003cp\u003e Life Steal: 10%\u003c/p\u003e",
+    "passive":"On dealing damage, reduces target\u0027s HP regeneration by 50% for 1.5 seconds. If this is triggered by normal attacks, the duration is extended to 3 seconds.",
+    "gold":"1800",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"81",
+    "name":"Death Sickle",
+    "info":"\u003cp\u003e Attack Damage: 60\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 5%\u003c/p\u003e",
+    "passive":"Prevents damage from a potential killing blow, then increases movement speed by 20% for 1 second. 90-second cooldown.",
+    "gold":"2000",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"83",
+    "name":"Devil’s Handshake",
+    "info":"\u003cp\u003e Attack Speed: 30%\u003c/p\u003e\n\u003cp\u003e Critical Chance: 20%\u003c/p\u003e\n\u003cp\u003e Movement Speed: 5%\u003c/p\u003e",
+    "passive":"Normal attacks increase attack speed by 10% for 2 seconds. Stacks up to 5 times.",
+    "gold":"2070",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"12",
+    "name":"Fafnir’s Talon",
+    "info":"\u003cp\u003e Attack Damage: 60\u003c/p\u003e\n\u003cp\u003e Attack Speed: 30%\u003c/p\u003e\n\u003cp\u003e Life Steal: 10%\u003c/p\u003e",
+    "passive":"Normal attacks deal additional damage equal to 8% of target\u0027s current HP.",
+    "gold":"2040",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"20",
+    "name":"Fenrir’s Tooth",
+    "info":"\u003cp\u003e Attack Damage: 200\u003c/p\u003e",
+    "passive":"Increases all damage dealt by 30% when the target\u0027s HP is below 50%.",
+    "gold":"2950",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"14",
+    "name":"Muramasa",
+    "info":"\u003cp\u003e Attack Damage: 75\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e",
+    "passive":"Armor Pierce +45%",
+    "gold":"2020",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"16",
+    "name":"Omni Arms",
+    "info":"\u003cp\u003e Attack Damage: 70\u003c/p\u003e\n\u003cp\u003e Attack Speed: 15%\u003c/p\u003e\n\u003cp\u003e Life Steal: 10%\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e\n\u003cp\u003e Max HP: 500\u003c/p\u003e",
+    "passive":"After using an ability, the next normal attack within 5 seconds deals 100% more physical damage. 2-second cooldown.",
+    "gold":"2150",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"9",
+    "name":"Shuriken",
+    "info":"\u003cp\u003e Attack Speed: 25%\u003c/p\u003e",
+    "passive":"Normal attacks deal additional 20-34 physical damage (scales with hero\u0027s level)",
+    "gold":"890",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"19",
+    "name":"Slikk’s Sting",
+    "info":"\u003cp\u003e Attack Speed: 35%\u003c/p\u003e\n\u003cp\u003e Critical Chance: 25%\u003c/p\u003e\n\u003cp\u003e Movement Speed: 7%\u003c/p\u003e",
+    "passive":"Increases hero\u0027s resistance by 35% for 2 seconds.",
+    "gold":"2000",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"11",
+    "name":"Spear of Longinus",
+    "info":"\u003cp\u003e Attack Damage: 80\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 15%\u003c/p\u003e\n\u003cp\u003e Max HP: 400\u003c/p\u003e",
+    "passive":"Decreases target armor by 50 on hit for 5 seconds. Stacks up to 5 times.",
+    "gold":"2080",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"7",
+    "name":"Tempest Blades",
+    "info":"\u003cp\u003e Attack Speed: 25%\u003c/p\u003e\n\u003cp\u003e Movement Speed: 5%\u003c/p\u003e",
+    "passive":"",
+    "gold":"",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"15",
+    "name":"The Beast",
+    "info":"\u003cp\u003e Attack Damage: 100\u003c/p\u003e\n\u003cp\u003e Life Steal: 25%\u003c/p\u003e",
+    "passive":"",
+    "gold":"1740",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"10",
+    "name":"Uriel’s Brand",
+    "info":"\u003cp\u003e Attack Damage: 100\u003c/p\u003e\n\u003cp\u003e Max HP: 600\u003c/p\u003e",
+    "passive":"When hero\u0027s HP falls below 40%, Uriel\u0027s Brand grants +200 magic defense and summons a Shield that absorbs (500+hero\u0027s level*100) magic damage for 5 seconds. 75-second cooldown.",
+    "gold":"2020",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Attack"
+  },
+  {
+    "id":"74",
+    "name":"Boots of Speed",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003ePassive \u003c/span\u003eUnique Passive\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003eMovement Speed +30\u003c/p\u003e",
+    "passive":"Movement Speed +30",
+    "gold":"0",
+    "desc":"Tier 1 Movement Item",
+    "ability":"Movement"
+  },
+  {
+    "id":"79",
+    "name":"War Boots",
+    "info":"\u003cp\u003e Attack Speed: 25%\u003c/p\u003e",
+    "passive":"Movement Speed +60",
+    "gold":"660",
+    "desc":"Tier 2 Movement Item",
+    "ability":"Movement"
+  },
+  {
+    "id":"78",
+    "name":"Enchanted Kicks",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003eUnique Passive \u003c/span\u003e\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003eMovement Speed +60\u003c/p\u003e\n\u003cp class\u003d\"title\"\u003e\u003cspan\u003eUnique Passive \u003c/span\u003e\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003eMagic Pierce +75\u003c/p\u003e",
+    "passive":"Movement Speed +60\nMagic Pierce +75",
+    "gold":"710",
+    "desc":"Tier 2 Movement Item",
+    "ability":"Movement"
+  },
+  {
+    "id":"77",
+    "name":"Flashy Boots",
+    "info":"\u003cp\u003e Cooldown Speed: 10\u003c/p\u003e",
+    "passive":"Movement Speed +60",
+    "gold":"690",
+    "desc":"Tier 2 Movement Item",
+    "ability":"Movement"
+  },
+  {
+    "id":"76",
+    "name":"Gilded Greaves",
+    "info":"\u003cp\u003e Magic Defense: 110\u003c/p\u003e",
+    "passive":"Movement Speed +60\nResistance +35%",
+    "gold":"690",
+    "desc":"Tier 2 Movement Item",
+    "ability":"Movement"
+  },
+  {
+    "id":"80",
+    "name":"Hermes’ Select",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003eUnique Passive \u003c/span\u003e Swift\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003eIncreases movement speed by 60 after exiting battle.\u003c/p\u003e\n\u003cp class\u003d\"title\"\u003e\u003cspan\u003eUnique Passive \u003c/span\u003e\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003eMovement Speed +60\u003c/p\u003e",
+    "passive":"Increases movement speed by 60 after exiting battle.\nMovement Speed +60",
+    "gold":"580",
+    "desc":"Tier 2 Movement Item",
+    "ability":"Movement"
+  },
+  {
+    "id":"75",
+    "name":"Sonic Boots",
+    "info":"\u003cp\u003e Armor: 110\u003c/p\u003e",
+    "passive":"Movement Speed +60\nReduces normal attack damage taken by 15%.",
+    "gold":"700",
+    "desc":"Tier 2 Movement Item",
+    "ability":"Movement"
+  },
+  {
+    "id":"67",
+    "name":"Hunter’s Crossbow",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003ePassive \u003c/span\u003eHunter\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003eDeals 20% extra damage to monsters and receives 15% more experience from killing monsters.\u003c/p\u003e\n\u003cp class\u003d\"title\"\u003e\u003cspan\u003ePassive \u003c/span\u003e\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003e(Once 2nd or 3rd tier jungling equipment is purchased, the Punish talent will become Frostbite. Frostbite deals damage to enemy heroes and reduces their movement speed.)\u003c/p\u003e",
+    "passive":"Deals 20% extra damage to monsters and receives 15% more experience from killing monsters.\n(Once 2nd or 3rd tier jungling equipment is purchased, the Punish talent will become Frostbite. Frostbite deals damage to enemy heroes and reduces their movement speed.)",
+    "gold":"0",
+    "desc":"Tier 1 Jungling Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"68",
+    "name":"Monsters’ Bane",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003ePassive \u003c/span\u003e\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003e(Grants Frostbite talent)\u003c/p\u003e",
+    "passive":"(Grants Frostbite talent)\nDeals 30% extra damage to monsters and receives 30% more experience from killing monsters.\nGains 8 ability power and 30 mana for every monster killed. Stacks up to 15 times.",
+    "gold":"750",
+    "desc":"Tier 2 Jungling Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"71",
+    "name":"Loki’s Curse",
+    "info":"\u003cp\u003e Ability Power: 150\u003c/p\u003e\n\u003cp\u003e Max HP: 400\u003c/p\u003e",
+    "passive":"(Grants Frostbite talent)\nAfter using an ability, the next normal attack deals additional magic damage equal to 35% attack damage (+45% ability power). 2-second cooldown.\nDeals 30% extra damage to monsters and receives 30% more experience from killing monsters.\nGains 8 ability power and 30 mana for every monster killed. Stacks up to 15 times.",
+    "gold":"1750",
+    "desc":"Tier 3 Jungling Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"69",
+    "name":"Gnoll Cleaver",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003ePassive \u003c/span\u003e\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003e(Grants Frostbite talent)\u003c/p\u003e",
+    "passive":"(Grants Frostbite talent)\nDeals 30% extra damage to monsters and receives 30% more experience from killing monsters.\nIncreases Maximum HP by 70 for every monster killed. Stacks up to 15 times.",
+    "gold":"750",
+    "desc":"Tier 2 Jungling Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"72",
+    "name":"Leviathan",
+    "info":"\u003cp\u003e Armor: 120\u003c/p\u003e\n\u003cp\u003e Max HP: 800\u003c/p\u003e",
+    "passive":"(Grants Frostbite talent)\nDeals (90+ hero\u0027s level*5) magic damage to nearby enemies every second. (Deals 100% bonus damage to minions and monsters)\nDeals 30% extra damage to monsters and receives 30% more experience from killing monsters.\nIncreases maximum HP by 70 for every monster killed. Stacks up to 15 times.",
+    "gold":"1750",
+    "desc":"Tier 3 Jungling Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"70",
+    "name":"Mr. Stabby",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003ePassive \u003c/span\u003e\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003e(Grants Frostbite talent)\u003c/p\u003e",
+    "passive":"(Grants Frostbite talent)\nDeals 30% extra damage to monsters and receives 30% more experience from killing monsters.\nIncreases attack damage by 3 for every monster killed. Stacks up to 15 times.",
+    "gold":"750",
+    "desc":"Tier 2 Jungling Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"73",
+    "name":"Soulreaver",
+    "info":"\u003cp\u003e Attack Damage: 80\u003c/p\u003e\n\u003cp\u003e Life Steal: 6%\u003c/p\u003e",
+    "passive":"(Grants Frostbite talent)\n+15%\nDeals 30% extra damage to monsters and receives 30% more experience from killing monsters.\nIncreases attack damage by 3 for every monster killed. Stacks up to 15 times.",
+    "gold":"1750",
+    "desc":"Tier 3 Jungling Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"22",
+    "name":"Spell Tome",
+    "info":"\u003cp\u003e Ability Power: 40\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"29",
+    "name":"Enchanted Scroll",
+    "info":"\u003cp\u003e Ability Power: 120\u003c/p\u003e",
+    "passive":"",
+    "gold":"820",
+    "desc":"Tier 2 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"23",
+    "name":"Lapis Ring",
+    "info":"\u003cp\u003e Max Mana: 300\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"25",
+    "name":"Pendant of Faith",
+    "info":"\u003cp\u003e Mana / Per 5 Seconds: 10\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"27",
+    "name":"Ancient Scriptures",
+    "info":"\u003cp\u003e Ability Power: 80\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"28",
+    "name":"Magic Ring",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003ePassive \u003c/span\u003eUnique Passive\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003eCooldown Speed +10%\u003c/p\u003e",
+    "passive":"Cooldown Speed +10%",
+    "gold":"0",
+    "desc":"Tier 1 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"30",
+    "name":"Trick Blade",
+    "info":"\u003cp\u003e Ability Power: 60\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e",
+    "passive":"After using an ability, the next normal attack deals additional magic damage. 3-second cooldown.",
+    "gold":"920",
+    "desc":"Tier 2 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"32",
+    "name":"Spoopy Mask",
+    "info":"\u003cp\u003e Ability Power: 100\u003c/p\u003e",
+    "passive":"Magic Pierce +75",
+    "gold":"960",
+    "desc":"Tier 2 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"34",
+    "name":"Phoenix Tear",
+    "info":"\u003cp\u003e Ability Power: 60\u003c/p\u003e",
+    "passive":"When the hero gains a level, 20% o fHP and mana are restored over 3 seconds.",
+    "gold":"600",
+    "desc":"Tier 2 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"36",
+    "name":"Virtue’s Bracelet",
+    "info":"\u003cp\u003e Ability Power: 60\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e\n\u003cp\u003e Mana / Per 5 Seconds: 20\u003c/p\u003e",
+    "passive":"Restores 20% mana after earning a kill or assist.",
+    "gold":"1020",
+    "desc":"Tier 2 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"39",
+    "name":"Vlad’s Impaler",
+    "info":"\u003cp\u003e Ability Power: 90\u003c/p\u003e",
+    "passive":"Magic Life Steal +15%",
+    "gold":"1130",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"41",
+    "name":"Staff of Nuul",
+    "info":"\u003cp\u003e Ability Power: 180\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e",
+    "passive":"Magic Pierce +40%",
+    "gold":"2050",
+    "desc":"Tier 2 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"64",
+    "name":"Virtue’s Necklace",
+    "info":"\u003cp\u003e Ability Power: 140\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 20%\u003c/p\u003e\n\u003cp\u003e Max Mana: 300\u003c/p\u003e\n\u003cp\u003e Mana / Per 5 Seconds: 30\u003c/p\u003e",
+    "passive":"Restores 20% mana after earning a kill or assist.",
+    "gold":"1980",
+    "desc":"Tier 2 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"86",
+    "name":"Tome of the Reaper",
+    "info":"\u003cp\u003e Ability Power: 240\u003c/p\u003e\n\u003cp\u003e Max HP: 500\u003c/p\u003e",
+    "passive":"On dealing damage, reduces target\u0027s HP regeneration by 50% for 1.5 seconds. If this is triggered by normal attacks, the duration is extended to 3 seconds.",
+    "gold":"2050",
+    "desc":"Tier 2 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"43",
+    "name":"Boomstick",
+    "info":"\u003cp\u003e Ability Power: 240\u003c/p\u003e",
+    "passive":"Ability hits trigger a small-area explosion that deals 50 (+50% ability power) magic damage. 5-second cooldown.",
+    "gold":"2000",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"44",
+    "name":"Hecate’s Diadem",
+    "info":"\u003cp\u003e Ability Power: 240\u003c/p\u003e",
+    "passive":"Ability Power +35%",
+    "gold":"2300",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"47",
+    "name":"Orb of the Magi",
+    "info":"\u003cp\u003e Ability Power: 140\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e",
+    "passive":"Gains 12 ability power and 110 HP ervery 30 seconds. Stacks up to 10 times.\nWhen the hero gains a level, 20% of HP and mana are restores over 3 seconds.",
+    "gold":"2010",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"49",
+    "name":"Rhea’s Blessing",
+    "info":"\u003cp\u003e Ability Power: 140\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e",
+    "passive":"Gains a shield that absorbs (450+hero\u0027s level*50)(+40% ability power) damage when HP falls below 40%. The shield lasts 4 seconds and has a 75-second cooldown.\nMagic Life Steal 25%",
+    "gold":"2220",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"50",
+    "name":"Zweihander",
+    "info":"\u003cp\u003e Ability Power: 180\u003c/p\u003e\n\u003cp\u003e Max Mana: 400\u003c/p\u003e\n\u003cp\u003e Movement Speed: 8%\u003c/p\u003e",
+    "passive":"Normal attack hits increase attack speed by 50% for 4 seconds. 10-second cooldown\nNormal attacks gain additional magic damage equal to 20% of the hero\u0027s ability power.",
+    "gold":"1970",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"52",
+    "name":"Frosty’s Revenge",
+    "info":"\u003cp\u003e Ability Power: 140\u003c/p\u003e\n\u003cp\u003e Magic Defense: 220\u003c/p\u003e\n\u003cp\u003e Movement Speed: 7%\u003c/p\u003e",
+    "passive":"Abilities that deal damage will also reduce enemy movement speed by 25% for 2 seconds.",
+    "gold":"1780",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"54",
+    "name":"Berith’s Agony",
+    "info":"\u003cp\u003e Ability Power: 140\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e\n\u003cp\u003e Armor: 270\u003c/p\u003e",
+    "passive":"Deals magic damage equal to 4% of the target\u0027s current HP (up to 80 against monsters). 1.2-second cooldown.",
+    "gold":"2160",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"18",
+    "name":"Apocalypse",
+    "info":"\u003cp\u003e Ability Power: 200\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e",
+    "passive":"After using an ability, the next normal attack deals additional magic damage equal to 30% of attack damage (+80% ability power). 2-second cooldown.",
+    "gold":"2190",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"21",
+    "name":"Soaring Aura",
+    "info":"\u003cp\u003e Ability Power: 140\u003c/p\u003e\n\u003cp\u003e Max HP: 1050\u003c/p\u003e",
+    "passive":"Reduces magic defense of enemies within 800 units by (75+ hero level*5).",
+    "gold":"2100",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"24",
+    "name":"Holy of Holies",
+    "info":"\u003cp\u003e Ability Power: 400\u003c/p\u003e",
+    "passive":"Increases maximum HP by 1400.",
+    "gold":"2990",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"26",
+    "name":"Ring of Vitality",
+    "info":"\u003cp\u003e Max HP: 300\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"31",
+    "name":"Light Armor",
+    "info":"\u003cp\u003e Armor: 90\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"33",
+    "name":"Gladiator’s Gauntlets",
+    "info":"\u003cp\u003e Magic Defense: 90\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"35",
+    "name":"Talisman of Strength",
+    "info":"\u003cp\u003e HP / Per 5 Seconds: 30\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Defense Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"38",
+    "name":"Necklace of Vitality",
+    "info":"\u003cp\u003e Max HP: 600\u003c/p\u003e",
+    "passive":"",
+    "gold":"0",
+    "desc":"Tier 1 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"40",
+    "name":"Greaves of Protection",
+    "info":"\u003cp\u003e Max HP: 1000\u003c/p\u003e",
+    "passive":"",
+    "gold":"900",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"42",
+    "name":"Heart of Incubus",
+    "info":"\u003cp\u003e Armor: 180\u003c/p\u003e",
+    "passive":"Deals 50 (+2 per level) magic damage to nearby enemies per second. (Deals 100% bonus damage to minions and monsters)",
+    "gold":"760",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"45",
+    "name":"Belt of Clarity",
+    "info":"\u003cp\u003e Magic Defense: 110\u003c/p\u003e\n\u003cp\u003e Max HP: 700\u003c/p\u003e",
+    "passive":"When taking damage, restores 4% HP over 2 seconds. 15-second cooldown.",
+    "gold":"1000",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"46",
+    "name":"Platinum Gauntlets",
+    "info":"\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e\n\u003cp\u003e Armor: 110\u003c/p\u003e",
+    "passive":"",
+    "gold":"660",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"48",
+    "name":"Knight’s Plate",
+    "info":"\u003cp\u003e Armor: 210\u003c/p\u003e",
+    "passive":"When taking damage, reduces the attacker\u0027s attack speed by 30%.",
+    "gold":"730",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"51",
+    "name":"Mail of Pain",
+    "info":"\u003cp\u003e Armor: 300\u003c/p\u003e\n\u003cp\u003e Max HP: 1200\u003c/p\u003e",
+    "passive":"15% of the physical damage taken is deflected to the enemy as magic damage (calculation is based on damage before damage reduction).",
+    "gold":"1940",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"53",
+    "name":"Hercules’ Madness",
+    "info":"\u003cp\u003e Attack Damage: 50\u003c/p\u003e\n\u003cp\u003e Armor: 180\u003c/p\u003e\n\u003cp\u003e Magic Defense: 150\u003c/p\u003e",
+    "passive":"Increases attack damage by 40 and gains a shield for 8 seconds when HP is below 40%. 90-second cooldown.",
+    "gold":"2000",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"55",
+    "name":"Odin’s Will",
+    "info":"\u003cp\u003e Attack Damage: 60\u003c/p\u003e\n\u003cp\u003e Max HP: 1000\u003c/p\u003e",
+    "passive":"Increases movement speed by 2% and deals 2% additional damage after taking damage. Stacks up to 5 times.",
+    "gold":"1820",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"56",
+    "name":"Mantle of Ra",
+    "info":"\u003cp\u003e Attack Damage: 80\u003c/p\u003e\n\u003cp\u003e Armor: 330\u003c/p\u003e",
+    "passive":"Deals 100 (+4 per level) magic damage to nearby enemies every second. (Deals 100% bonus damage to minions and monsters)",
+    "gold":"1950",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"57",
+    "name":"Shield of the Lost",
+    "info":"\u003cp\u003e Armor: 360\u003c/p\u003e\n\u003cp\u003e Max HP: 1200\u003c/p\u003e",
+    "passive":"Reduces the attack speed of nearby enemies by 30%.",
+    "gold":"2100",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"58",
+    "name":"The Aegis",
+    "info":"\u003cp\u003e Cooldown Speed: 20%\u003c/p\u003e\n\u003cp\u003e Max Mana: 400\u003c/p\u003e\n\u003cp\u003e Armor: 360\u003c/p\u003e",
+    "passive":"When taking damage, reduces the attacker\u0027s attack speed by 30% and movement speed by 15% for 3 seconds.",
+    "gold":"2180",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"59",
+    "name":"Gaia’s Standard",
+    "info":"\u003cp\u003e Magic Defense: 240\u003c/p\u003e\n\u003cp\u003e Max HP: 1200\u003c/p\u003e\n\u003cp\u003e Movement Speed: 5%\u003c/p\u003e",
+    "passive":"When taking damage, restores 8% HP over 2 seconds. 10-second cooldown.",
+    "gold":"1960",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"60",
+    "name":"Medallion of Troy",
+    "info":"\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e\n\u003cp\u003e Magic Defense: 360\u003c/p\u003e\n\u003cp\u003e Max HP: 1000\u003c/p\u003e",
+    "passive":"Gains a shield that absorbs (300+ hero\u0027s level*60) magic damage every 18 seconds.",
+    "gold":"2320",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"61",
+    "name":"Crimson Banner",
+    "info":"\u003cp\u003e Armor: 200\u003c/p\u003e\n\u003cp\u003e Max HP: 1500\u003c/p\u003e",
+    "passive":"Restores 20% HP over 5 seconds after earning a kill or assist. 10-second cooldown.",
+    "gold":"2090",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"62",
+    "name":"Hyoga’s Edge",
+    "info":"\u003cp\u003e Ability Power: 100\u003c/p\u003e\n\u003cp\u003e Magic Defense: 100\u003c/p\u003e\n\u003cp\u003e Max HP: 1200\u003c/p\u003e",
+    "passive":"Normal attacks increase wearer\u0027s attack speed by 10% and reduces target\u0027s movement speed by 25% for 2 seconds.",
+    "gold":"1920",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"65",
+    "name":"Frost Cape",
+    "info":"\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e\n\u003cp\u003e Armor: 200\u003c/p\u003e\n\u003cp\u003e Max HP: 800\u003c/p\u003e",
+    "passive":"After using an ability, the next normal attack reduces movement speed by 30% and deals 150 Physical Damage (20 additional damage for each level gained) to an area. 3-second cooldown.",
+    "gold":"1970",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"66",
+    "name":"Amulet of Longevity",
+    "info":"\u003cp\u003e Max HP: 1700\u003c/p\u003e\n\u003cp\u003e HP / Per 5 Seconds: 100\u003c/p\u003e",
+    "passive":"Increases healing taken by 20%.\nIncreases maximum HP by 10%.",
+    "gold":"2680",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"87",
+    "name":"Whispering Wind",
+    "info":"\u003cp class\u003d\"title\"\u003e\u003cspan\u003ePassive \u003c/span\u003e(Grants Frostbite talent)\u003c/p\u003e\n\u003cp class\u003d\"description\"\u003e\u003c/p\u003e",
+    "passive":"Deals 30% extra damage to monsters and receives 30% more experience from killing monsters.\nIncrease attack speed by 2% for every monster killed. Stack up to 15 times.",
+    "gold":"750",
+    "desc":"Tier 2 Attack Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"88",
+    "name":"Scorching Wind",
+    "info":"\u003cp\u003e Attack Damage: 15\u003c/p\u003e\n\u003cp\u003e Attack Speed: 20%\u003c/p\u003e\n\u003cp\u003e Life Steal: 10%\u003c/p\u003e",
+    "passive":"Normal attacks place a mark on the target, dealing (18 + level x0.5) magic damage each stack (ranged attacks deal 75% of the damage), up to 6 stacks.\nDeals 30% extra damage to monsters and receives 30% more experience from killing monsters.\nIncreases attack speed by 2% for every monster killed. Stacks up to 15 times.",
+    "gold":"1750",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Jungling"
+  },
+  {
+    "id":"82",
+    "name":"Bow of Slaughter",
+    "info":"\u003cp\u003e Attack Damage: 90\u003c/p\u003e\n\u003cp\u003e Life Steal: 10%\u003c/p\u003e\n\u003cp\u003e Critical Chance: 20%\u003c/p\u003e",
+    "passive":"Increases Life Steal by 90% for 3 seconds. 60-second cooldown. Only usable by ranged heroes.",
+    "gold":"2400",
+    "desc":"Tier 3 Attack Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"90",
+    "name":"Rock Shield",
+    "info":"\u003cp\u003e Armor: 150\u003c/p\u003e\n\u003cp\u003e Magic Defense: 150\u003c/p\u003e\n\u003cp\u003e Max HP: 800\u003c/p\u003e",
+    "passive":"3 seconds after activation, the wearer gains a shield with 30% of the damage taken in those 3 seconds (+10% of max HP) for seconds. The player\u0027s damage dealt is reduced by 70% for 3 seconds after gaining the shield. 75-second cooldown.",
+    "gold":"1980",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"89",
+    "name":"Arctic Orb",
+    "info":"\u003cp\u003e Ability Power: 200\u003c/p\u003e",
+    "passive":"Immune to all effects for 1.5 seconds, but cannot move or use abilities. 90-second cooldown.",
+    "gold":"2000",
+    "desc":"Tier 3 Magic Item",
+    "ability":"Magic"
+  },
+  {
+    "id":"37",
+    "name":"Wind Stone",
+    "info":"\u003cp\u003e Movement Speed: 5%\u003c/p\u003e\n\u003cp\u003e Mana / Per 5 Seconds: 8\u003c/p\u003e",
+    "passive":"Gain 5 gold and experience every 3 seconds if your gold or experience is the lowest on the team.",
+    "gold":"0",
+    "desc":"Tier 1 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"91",
+    "name":"Water Stone",
+    "info":"\u003cp\u003e HP / Per 5 Seconds: 20\u003c/p\u003e\n\u003cp\u003e Mana / Per 5 Seconds: 10\u003c/p\u003e",
+    "passive":"Gain a stack of Dedication Buff every 30 seconds. Stacks up to 2 times. If a unit dies within 800 units, consume a stack of Dedication Buff to grant the nearest ally 15 extra gold and 40 experience.",
+    "gold":"0",
+    "desc":"Tier 1 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"93",
+    "name":"Windrider Talisman",
+    "info":"\u003cp\u003e Armor: 175\u003c/p\u003e\n\u003cp\u003e HP / Per 5 Seconds: 40\u003c/p\u003e\n\u003cp\u003e Mana / Per 5 Seconds: 15\u003c/p\u003e\n\u003cp\u003e Movement Speed: 5%\u003c/p\u003e",
+    "passive":"Gain 5 gold and experience every 3 seconds if your gold or experience is the lowest on the team.\nGain 30% more gold and experience after a kill or assist",
+    "gold":"850",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"92",
+    "name":"Ring of Gale",
+    "info":"\u003cp\u003e Ability Power: 60\u003c/p\u003e\n\u003cp\u003e Movement Speed: 5%\u003c/p\u003e\n\u003cp\u003e Mana / Per 5 Seconds: 20\u003c/p\u003e",
+    "passive":"Gain 5 gold and experience every 3 seconds if your gold or experience is the lowest on the team.\nGain 30% more gold and experience after a kill or assist",
+    "gold":"850",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"94",
+    "name":"Crystal Talisman",
+    "info":"\u003cp\u003e Armor: 120\u003c/p\u003e",
+    "passive":"Gain a stack of Dedication Buff every 30 seconds. Stacks up to 2 times. If a unit dies within 800 units, consume a stack of Dedication Buff to grant the nearest ally 15 extra gold and 40 experience.\nYou and nearby friendly heroes (within 600 units) receive 20 (+1 per level) HP and 10 (+1 per 2 levels) mana per second.",
+    "gold":"850",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"95",
+    "name":"Stream Bracers",
+    "info":"\u003cp\u003e Cooldown Speed: 10%\u003c/p\u003e",
+    "passive":"Gain a stack of Dedication Buff every 30 seconds. Stacks up to 2 times. If a unit dies within 800 units, consume a stack of Dedication Buff to grant the nearest ally 15 extra gold and 40 experience.\nYou and nearby friendly heroes (within 600 units) receive 20 (+1 per level) HP and 10 (+1 per 2 levels) mana per second.",
+    "gold":"850",
+    "desc":"Tier 2 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"96",
+    "name":"Essence of the Wind",
+    "info":"\u003cp\u003e Armor: 250\u003c/p\u003e\n\u003cp\u003e Max HP: 600\u003c/p\u003e\n\u003cp\u003e Movement Speed: 5%\u003c/p\u003e\n\u003cp\u003e HP / Per 5 Seconds: 40\u003c/p\u003e\n\u003cp\u003e Mana / Per 5 Seconds: 15\u003c/p\u003e",
+    "passive":"Gain 5 gold and experience every 3 seconds if your gold or experience is the lowest on the team.\nGain 30% more gold and experience after a kill or assist\nProvide nearby hero with the lowest HP a (800 + Hero Level x 80) point shield and 30% movement speed boost for 3 seconds. 45 second cooldown",
+    "gold":"1850",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"99",
+    "name":"Tidecaller’s Mark",
+    "info":"\u003cp\u003e Armor: 200\u003c/p\u003e\n\u003cp\u003e Max HP: 600\u003c/p\u003e",
+    "passive":"Gain a stack of Dedication Buff every 30 seconds. Stacks up to 2 times. If a unit dies within 800 units, consume a stack of Dedication Buff to grant the nearest ally 15 extra gold and 40 experience.\nYou and nearby friendly heroes (within 600 units) receive 20 (+1 per level) HP and 10 (+1 per 2 levels) mana per second.\nIncrease damage of nearby allies by 5% and damage reduction by 10%.",
+    "gold":"1850",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"98",
+    "name":"Purifying Bracers",
+    "info":"\u003cp\u003e Max HP: 500\u003c/p\u003e\n\u003cp\u003e Cooldown Speed: 15%\u003c/p\u003e",
+    "passive":"Gain a stack of Devotion Buff every 30 seconds. Stacks up to 2 times. If a unit dies within 800 units, consume a stack of Devotion and grant the nearest ally 15 extra gold and 40 experience.\nYou and nearby friendly heroes (within 600 units) receive 20 (+1 per level) HP and 10 (+1 per 2 levels) mana per second.\nImmediately remove any control effects from a nearby allied hero, and restore 160 + (level x 30) HP and increase their movement speed by 20% for 1 second. The affected hero is immune to slows for the next 2 seconds. 90 second cooldown.",
+    "gold":"1850",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Support"
+  },
+  {
+    "id":"63",
+    "name":"Blade of Eternity",
+    "info":"\u003cp\u003e Armor: 120\u003c/p\u003e",
+    "passive":"Increase damage dealt by 10%\nResurrects wearer 2 seconds after death with 2000 + (hero level * 100) HP. This effect has a 150 second cooldown and can only be triggered twice in the same match.",
+    "gold":"2400",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Defense"
+  },
+  {
+    "id":"97",
+    "name":"Ring of the Fiend",
+    "info":"Ability Power +90, Cooldown Speed +15%, Movement Speed +5%",
+    "passive":"Wage: Gain 5 gold and experience every 3 seconds if your gold or experience is the lowest on the team. Distinction: Gain 30% more gold and experience after a kill or assistEye of the Fiend: Gain vision of the nearest enemy for 4 seconds. Cooldown: 30 seconds.",
+    "gold":"1850",
+    "desc":"Tier 3 Defense Item",
+    "ability":"Support"
+  }
+]

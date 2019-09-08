@@ -1,0 +1,72 @@
+﻿[
+  {
+    "description":"Increases movement speed by 30% for 10 seconds.",
+    "id":"0",
+    "name":"Sprint",
+    "cooldown":"100",
+    "youtube":"VuYXDpvfeNU"
+  },
+  {
+    "description":"Instantly attacks nearby enemy hero and deals damage equal to 16% of the HP the enemy hero has lost as true damage.",
+    "id":"1",
+    "name":"Execute",
+    "cooldown":"90",
+    "youtube":"fsMAiEJCDO0"
+  },
+  {
+    "description":"Deals 800 true damage to nearby minions and monsters and stuns them for 1 second.",
+    "id":"2",
+    "name":"Punish",
+    "cooldown":"30",
+    "youtube":"yOvA5M6fGeo"
+  },
+  {
+    "description":"Increases attack speed by 60% and attack damage by 10% for 5 seconds.",
+    "id":"3",
+    "name":"Roar",
+    "cooldown":"60",
+    "youtube":"Q6NkcYvoLJY"
+  },
+  {
+    "description":"You and nearby teammates instantly recover 15% HP and gain 15% movement speed for 2 seconds.",
+    "id":"4",
+    "name":"Heal",
+    "cooldown":"120",
+    "youtube":"l-Tm1uyYnF0"
+  },
+  {
+    "description":"Silences a structure for 5 seconds.",
+    "id":"5",
+    "name":"Disrupt",
+    "cooldown":"60",
+    "youtube":"tap1gID_E7U"
+  },
+  {
+    "description":"Stuns nearby enemies for 0.5 seconds, then reduces their movement speed for 1 second.",
+    "id":"6",
+    "name":"Daze",
+    "cooldown":"90",
+    "youtube":"3svR5JCtFTU"
+  },
+  {
+    "description":"Removes all debuffes and control effects on yourself and gains immunity to them for 1.5 seconds.",
+    "id":"7",
+    "name":"Purify",
+    "cooldown":"120",
+    "youtube":"CmcKMC_EcdE"
+  },
+  {
+    "description":"Immobilizes your hero to become invulnerable for 1.5 seconds.",
+    "id":"8",
+    "name":"Endure",
+    "cooldown":"120",
+    "youtube":"_a_Lwv125yw"
+  },
+  {
+    "description":"Teleport’s your hero a short distance.",
+    "id":"9",
+    "name":"Flicker",
+    "cooldown":"120",
+    "youtube":"-eJ9SUODmW0"
+  }
+]
